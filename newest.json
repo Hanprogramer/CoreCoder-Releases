@@ -4,5 +4,8 @@
 	"versionBuilds" : 0,
 	"versionName" : "v1.1.0",
 	"changelogTitle" : "The Plugins Update",
-	"changelogDesc": "<h1 style=\"color: #5e9ca0;\">v1.1.0 - The Plugins update</h1><p>This update we bring the newest system to our place, the plugins, with this you guys can make your own tools, connect existing tools, and even sell them!</p><ul><li>Added basic plugins system</li><li>Added auto update checker</li><li>Added splash screen</li><li>Added save-load settings</li></ul><p>&nbsp;</p>"
+	"nwjsVersion" : "v0.47.3",
+	"forceUpdate" : false,
+	"releaseLink" : "none",
+	"changelogDesc": "<h1 style="color: #5e9ca0;">v1.1.0 - The Plugins update</h1><p>This update we bring the newest system to our place, the plugins, with this you guys can make your own tools, connect existing tools, and even sell them!</p><ul><li>Added basic plugins system</li><li>Added auto update checker</li><li>Added splash screen</li><li>Added save-load settings</li></ul><p>&nbsp;</p>"
 }
