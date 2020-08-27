@@ -6,7 +6,7 @@
 	"changelogTitle" : "The Plugins Update",
 	"nwjsVersion" : "v0.47.3",
 	"forceUpdate" : false,
-	"mustUpdateLauncher" : false,
+	"mustUpdateLauncher" : true,
 	"launcherVersion" : 1,
 	"releaseLink" : "https://github.com/Hanprogramer/CoreCoder-Releases/files/5130217/runtime-v1.0.0.zip",
 	"changelogDesc": "<h1 style=\"color: #5e9ca0;\">v1.1.0 - The Plugins update</h1><p>This update we bring the newest system to our place, the plugins, with this you guys can make your own tools, connect existing tools, and even sell them!</p><ul><li>Added basic plugins system</li><li>Added auto update checker</li><li>Added splash screen</li><li>Added save-load settings</li></ul><p>&nbsp;</p>"
