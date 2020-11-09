@@ -1,9 +1,9 @@
 {
 	"versionMajor" : 1,
-	"versionMinor" : 1,
+	"versionMinor" : 4,
 	"versionBuilds" : 0,
-	"versionName" : "v1.0.0",
-	"changelogTitle" : "The Plugins Update",
+	"versionName" : "v1.4.0-beta",
+	"changelogTitle" : "v1.4 Beta",
 	"nwjsVersion" : "v0.47.3",
 	"forceUpdate" : false,
 	"mustUpdateLauncher" : false,
